@@ -1,1 +1,4 @@
-# Homework
+mevalar = ["olma", "banan", "anor", "uzum", "shaftoli"]
+uchinchi_meva = mevalar[2]
+print("Uchinchi meva:", uchinchi_meva)
+Uchinchi meva: anor
